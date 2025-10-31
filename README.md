@@ -76,3 +76,8 @@ pip install -U pip
 # Install dependencies
 pip install pandas numpy scikit-learn openpyxl unidecode
 
+## Reports (PDF)
+
+- [Sehhaty Data Cleaning Report](Sehhaty_Data_Cleaning_Report.pdf)
+- [Data Analysis Report](Data_Analysis_Report.pdf)
+- [Review Classification Report](Review_Classification_Report_2025-10-08.pdf)
