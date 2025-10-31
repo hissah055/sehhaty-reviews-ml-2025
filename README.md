@@ -76,8 +76,67 @@ pip install -U pip
 # Install dependencies
 pip install pandas numpy scikit-learn openpyxl unidecode
 
+## Install Dependencies
+
+```bash
+pip install pandas numpy scikit-learn openpyxl unidecode
+ ``` 
 ## Reports (PDF)
 
-- [Sehhaty Data Cleaning Report](Sehhaty_Data_Cleaning_Report.pdf)
-- [Data Analysis Report](Data_Analysis_Report.pdf)
-- [Review Classification Report](Review_Classification_Report_2025-10-08.pdf)
+- [Sehhaty Data Cleaning Report](reports/Sehhaty_Data_Cleaning_Report.pdf)
+- [Data Analysis Report](reports/Data_Analysis_Report.pdf)
+- [Review Classification Report](reports/Review_Classification_Report_2025-10-08.pdf)
+## License
+This project is licensed under the MIT License.
+## Citation
+If you use this project, please cite it as:
+
+Hissah.S.Al-Atwi et al. (2025). *Sehhaty Reviews ML Classification Project*.
+
+
+## 📬 Contact  
+For inquiries, please contact:  
+
+**Hissah S. Al-Atwi**  
+📧 452010119@stu.ut.edu.sa  
+
+**Areej M. Al-Wabisi**  
+📧 452009812@stu.ut.edu.sa  
+
+**Salmah M. Al-Qarni**  
+📧 452010215@stu.ut.edu.sa  
+
+**Gadaa S. Al-Atwi**  
+📧 452010230@stu.ut.edu.sa  
+
+**Wejdan B. Al-Marwani**  
+📧 452009724@stu.ut.edu.sa  
+
+**Omar I. Al-Asiri**  
+📧 oasiri@ut.edu.sa  
+
+**Fathi A. Mubaraki**  
+📧 f.mubaraki@ut.edu.sa  
+
+## License
+This project is licensed under the MIT License.  
+See the LICENSE file for details.
+
+### ✅ What does it mean?
+It means:
+- The project is open-source  
+- Anyone can use, modify, and distribute the code  
+- They must keep your name/credit  
+- You are **not legally responsible** for how others use it  
+- The detailed legal text is found inside the `LICENSE` file
+
+## Future Work
+- Enhance model performance using deep learning
+- Add visualization dashboard
+- Automate data collection and labeling
+## Acknowledgment
+We would like to thank the University of Tabuk for supporting this work.
+We also extend our gratitude to our supervisors, Dr. Omar Al-Asiri and Dr. Fathi Mubaraki, for their guidance and valuable support throughout this project.
+
+## Disclaimer
+This project is for research purposes only and is not affiliated with the Sehhaty application.
