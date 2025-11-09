@@ -24,28 +24,29 @@ The project includes:
 - Reporting and visualization
 
 The final repository contains:
-- Cleaned review dataset
-- Classification labels (Theme / Subtheme / Sentiment)
-- Python scripts for ML processing
-- PDF reports for cleaning, analysis, and classification
+
+- Raw review dataset extracted in July 2025
+- Python scripts for data processing and machine learning
+
 ```
 sehhaty-reviews-ml-2025/
 │
 ├── data/
 │   ├── data/
 │   │   └── .keep
-│   ├── sample_clean_labeled_2000.csv
-│   └── sample_clean_labeled_2000.xlsx
-│
-├── reports/
-│   ├── Sehhaty_Data_Cleaning_Report.pdf
-│   ├── Data_Analysis_Report.pdf
-│   └── Review_Classification_Report_2025-10-08.pdf
+│   ├── Sehhaty_Reviews_DB_July2025.csv
+│   └── Sehhaty_Reviews_DB_July2025.xlsx
 │
 ├── train_classifier.py
 ├── LICENSE
 └── README.md
+
 ```
+## Dataset
+
+The files in the `data/` directory contain the **raw user reviews** extracted from the Sehhaty mobile application in **July 2025**.  
+These represent the **original dataset prior to data cleaning, preprocessing, and analysis**.
+
 ## Usage
 
 To run the classification script, execute:
@@ -83,11 +84,6 @@ pip install pandas numpy scikit-learn openpyxl unidecode
 ```bash
 pip install pandas numpy scikit-learn openpyxl unidecode
  ``` 
-## Reports (PDF)
-
-- [Sehhaty Data Cleaning Report](reports/Sehhaty_Data_Cleaning_Report.pdf)
-- [Data Analysis Report](reports/Data_Analysis_Report.pdf)
-- [Review Classification Report](reports/Review_Classification_Report_2025-10-08.pdf)
 ## License
 This project is licensed under the MIT License.
 ## Citation
