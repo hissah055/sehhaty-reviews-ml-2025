@@ -9,7 +9,7 @@
 | Salmah M. Al-Qarni |
 | Gadaa S. Al-Atwi |
 | Wejdan B. Al-Marwani |
-| Omar I. Al-Asiri |
+| Omar I. Asiri |
 | Fathi A. Mubaraki |
 ## Project Overview
 
