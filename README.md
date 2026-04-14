@@ -1,4 +1,9 @@
 # Feedback from the Depth of Reviews: Reimagining User Experience in Saudi Arabia’s Sehhaty App
+## 📊 Dashboard
+
+You can view the interactive dashboard and analysis here:
+
+📥 [Download Dashboard (PDF)](./Sehhaty_Dashboard.pdf)
 
 ## Contributors
 
